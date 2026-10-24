@@ -1081,6 +1081,11 @@ In 2026, many of the most important advances in context engineering no longer li
 </li>
 <li><i><b>Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models</b></i>, Fei Wang et al., <a href="https://arxiv.org/abs/2410.07176" target="_blank"><img src="https://img.shields.io/badge/arXiv-2025.00-red" alt="arXiv Badge"></a>
 </li>
+<li><i><b>ParamMute: Suppressing Knowledge-Critical FFNs for Faithful Retrieval-Augmented Generation</b></i>, Pengcheng Huang et al., <a href="https://arxiv.org/abs/2502.15543" target="_blank"><img src="https://img.shields.io/badge/NeurIPS-2025.02-blue" alt="NeurIPS Badge"></a>
+    <a href="https://github.com/OpenBMB/ParamMute" target="_blank">
+        <img src="https://img.shields.io/github/stars/OpenBMB/ParamMute.svg?style=social" alt="GitHub stars">
+    </a>
+</li>
 <li><i><b>Learning to Filter Context for Retrieval-Augmented Generation</b></i>, Zhiruo Wang et al., <a href="https://arxiv.org/abs/2311.08377" target="_blank"><img src="https://img.shields.io/badge/arXiv-2023.00-red" alt="arXiv Badge"></a>
     <a href="https://github.com/zorazrw/filco" target="_blank">
         <img src="https://img.shields.io/github/stars/zorazrw/filco.svg?style=social" alt="GitHub stars">
